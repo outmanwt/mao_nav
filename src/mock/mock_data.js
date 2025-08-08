@@ -34,6 +34,13 @@ export const mockData = {
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
         }
+        ,{
+          "id": "xianyu-monitor-local",
+          "name": "闲鱼智能监控机器人 - 管理后台",
+          "url": "http://192.168.1.36:8003/",
+          "description": "闲鱼智能监控机器人管理后台",
+          "icon": "/sitelogo/xianyu.png"
+        }
       ]
     },
     {
@@ -142,7 +149,7 @@ export const mockData = {
           "description": "API测试工具",
           "icon": "/sitelogo/www.postman.com.ico"
         },
-		{
+    {
           "id": "godbolt",
           "name": "Godbolt Compiler Explorer",
           "url": "https://godbolt.org/",
@@ -371,7 +378,7 @@ export const mockData = {
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
         },
-		{
+    {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
