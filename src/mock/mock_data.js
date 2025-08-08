@@ -83,6 +83,20 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "aicodemirror",
+          "name": "AI Code Mirror",
+          "url": "https://www.aicodemirror.com/",
+          "description": "AI代码镜像工具",
+          "icon": "/sitelogo/www.aicodemirror.com.ico"
+        },
+        {
+          "id": "anyrouter",
+          "name": "AnyRouter",
+          "url": "https://anyrouter.top/",
+          "description": "路由器工具平台",
+          "icon": "/sitelogo/anyrouter.top.ico"
         }
       ]
     },
