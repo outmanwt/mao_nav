@@ -60,6 +60,8 @@
 
 ### 🚀 部署到 Vercel
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Foutmanwt%2Fmao_nav)
+
 **1. Fork 本项目**
 - 同上，先 Fork 到你的 GitHub 账号
 
