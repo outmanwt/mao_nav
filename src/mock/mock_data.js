@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://anyrouter.top/",
           "description": "路由器工具平台",
           "icon": "/sitelogo/anyrouter.top.ico"
+        },
+        {
+          "id": "newapi",
+          "name": "NewApi",
+          "url": "http://192.168.1.36:8006/",
+          "description": "NewApi接口管理平台",
+          "icon": "/sitelogo/anyrouter.top.ico"
         }
       ]
     },
