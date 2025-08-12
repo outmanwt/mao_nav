@@ -13,6 +13,13 @@ export const mockData = {
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
         },
+		{
+          "id": "dangbei",
+          "name": "当贝AI",
+          "url": "https://ai.dangbei.com",
+          "description": "当贝AI,好用👌",
+          "icon": "/sitelogo/ai.dangbei.com.ico"
+        },
         {
           "id": "linux-do",
           "name": "Linux.do",
