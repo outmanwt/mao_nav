@@ -398,6 +398,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "markdown-print",
+          "name": "Markdown 打印",
+          "url": "https://print.markdown.janqi.com/zh.html",
+          "description": "Markdown文档打印工具",
+          "icon": "/sitelogo/print.markdown.janqi.com.ico"
         }
       ]
     },
