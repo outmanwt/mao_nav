@@ -47,6 +47,27 @@ export const mockData = {
           "url": "http://192.168.1.36:8003/",
           "description": "闲鱼智能监控机器人管理后台",
           "icon": "/sitelogo/xianyu.png"
+        },
+        {
+          "id": "home-nas",
+          "name": "家里的NAS",
+          "url": "http://frp1.mmszxc.xin:27397/",
+          "description": "家庭网络存储服务",
+          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
+        },
+        {
+          "id": "dorm-nas",
+          "name": "宿舍的NAS",
+          "url": "http://frp1.mmszxc.xin:27398/",
+          "description": "宿舍网络存储服务",
+          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
+        },
+        {
+          "id": "gitea",
+          "name": "Gitea",
+          "url": "http://frp1.mmszxc.xin:27399/",
+          "description": "自建Git代码托管服务",
+          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
         }
       ]
     },
