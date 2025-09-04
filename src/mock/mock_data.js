@@ -53,21 +53,14 @@ export const mockData = {
           "name": "家里的NAS",
           "url": "http://frp1.mmszxc.xin:27397/",
           "description": "家庭网络存储服务",
-          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
+          "icon": "/sitelogo/fnos.ico"
         },
         {
           "id": "dorm-nas",
           "name": "宿舍的NAS",
           "url": "http://frp1.mmszxc.xin:27398/",
           "description": "宿舍网络存储服务",
-          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
-        },
-        {
-          "id": "gitea",
-          "name": "Gitea",
-          "url": "http://frp1.mmszxc.xin:27399/",
-          "description": "自建Git代码托管服务",
-          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
+          "icon": "/sitelogo/fnos.ico"
         }
       ]
     },
@@ -498,6 +491,13 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
+          "id": "gitea",
+          "name": "Gitea",
+          "url": "http://frp1.mmszxc.xin:27399/",
+          "description": "自建Git代码托管服务",
+          "icon": "/sitelogo/frp1.mmszxc.xin.ico"
         }
       ]
     }
